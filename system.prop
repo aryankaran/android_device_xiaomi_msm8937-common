@@ -1,2 +1,5 @@
 # Fwk detect
 ro.vendor.qti.va_aosp.support=1
+
+# Disable Blur by default
+persist.sys.sf.disable_blurs=1
